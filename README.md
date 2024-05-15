@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ranaweerasc65&label=Profile%20views&color=0e75b6&style=flat" alt="ranaweerasc65" /> </p>
 
-- 🧑‍🎓 I’m an final year undergraduate at **Faculty of Engineering - University of Ruhuna**
+- 🧑‍🎓 I’m a final year undergraduate at **Faculty of Engineering - University of Ruhuna**
 
 - 🔭 I’m currently working on [GAN Based Text-to-Image Synthesizer](https://github.com/ranaweerasc65/Text2Pic_frontend)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sachini-chamathka-ranaweera.netlify.app/](https://portfolio-sachini-chamathka-ranaweera.netlify.app/)
+- 👨‍💻 My portfolio is available at [https://portfolio-sachini-chamathka-ranaweera.netlify.app/](https://portfolio-sachini-chamathka-ranaweera.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@ranaweerasc65](https://medium.com/@ranaweerasc65)
 
