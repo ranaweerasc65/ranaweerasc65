@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachini Chamathka Ranaweera</h1>
+<h1 align="center">Hi 👋, I'm Sachini Ranaweera</h1>
 <h3 align="center">A passionate frontend developer | Faculty of Engineering | University of Ruhuna</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ranaweerasc65&label=Profile%20views&color=0e75b6&style=flat" alt="ranaweerasc65" /> </p>
